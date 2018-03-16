@@ -1,0 +1,10 @@
+server:
+    port: 9000
+    contextPath: /travel
+
+
+simple-travel-api:
+    auth:
+        username: "travel-api-client"
+        password: "pwd"
+    url: "http://localhost:8080"
